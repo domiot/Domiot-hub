@@ -1,0 +1,6 @@
+{
+    "terminal.integrated.env.osx": {
+        "PATH": "/Users/alexandre/.platformio/penv/bin:/Users/alexandre/.platformio/penv:/Applications/Arduino.app/Contents/Java/hardware/tools/avr/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/opt/X11/bin:~/opt/bin/pdf-stamper/",
+        "PLATFORMIO_CALLER": "vscode"
+    }
+}
